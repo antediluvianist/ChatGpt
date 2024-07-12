@@ -1,4 +1,4 @@
-1. Install OpenAI package :
-   -**dotnet add package OpenAI --version 1.7.0**
-2.Install Newtonsoft.Json :
-  -**dotnet add package Newtonsoft.Json**
+Install OpenAI package :<br>
+**dotnet add package OpenAI --version 1.7.0**
+Install Newtonsoft.Json :<br>
+**dotnet add package Newtonsoft.Json**
